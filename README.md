@@ -1,6 +1,5 @@
 # 💫 About Me:
 👋 Welcome to my profile! I enjoy coding and turning ideas into real projects.
-[![Netlify Status](https://api.netlify.com/api/v1/badges/abebe41b-dbbe-45c7-82b7-325d4e1b2793/deploy-status)](https://app.netlify.com/projects/remhosting/deploys)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/slow3rxq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahman-emin-85954b32b) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@slow3rxq) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/slow3rxq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrahmanemin@remhosting.net) 
